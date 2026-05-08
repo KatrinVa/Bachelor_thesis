@@ -1,4 +1,4 @@
-# Bachelor_thesis
+# DeepMIB cryo-vEM segmentation
 
 This repository contains results from my bachelor's thesis, **"Evaluation of Strategies for Automated Segmentation of Cryo-Volume-EM Data"**, written as the final project of my Biophysics studies at Masaryk University in Brno.
 
