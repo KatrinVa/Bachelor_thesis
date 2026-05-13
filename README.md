@@ -6,4 +6,4 @@ The thesis focused on automated segmentation of cryo-FIB-SEM organelle data usin
 
 This repository provides the best performing trained networks together with animations of segmentation results on the full dataset.
 
-More details are available in the thesis PDF: `bc_thesis-Evaluation_of_strategies_for_automated_segmentation_of_cryo_volume_EM_data_compressed.pdf`.
+More details are available in the thesis PDF: `bc_thesis-Evaluation_of_strategies_for_automated_segmentation_of_cryo_volume_EM_data_final.pdf`.
